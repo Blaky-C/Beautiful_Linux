@@ -1,4 +1,16 @@
-# Beautiful_Linux
+# About Install Linux
+
+### 部分参考：
+
+1. https://github.com/TonyCrane/Beautiful_Linux
+2. 
+
+
+
+### 安装说明
+
+
+
 Optimize and beautify Ubuntu. 
 
 ### Optimize
@@ -36,36 +48,8 @@ Optimize and beautify Ubuntu.
 
 
 
-### Beautify
-
-##### 壁纸文件
-
-参考：https://github.com/TonyCrane/Beautiful_Linux
-
-采用了壁纸：![Forever_by_Shady_S.jpg](./Forever_by_Shady_S.jpg)
 
 
 
-##### Theme和Icon文件下载
-
-主题本来想使用之前用的 unity-tweak-tool 加 Flatabulous 的，但是在 Ubuntu 20.4中安装时，启动unity-tweak-tool和安装 Flatabulous 库均出现了问题，因此改用 gnome-tweak-tool。
-
-参考：https://zhuanlan.zhihu.com/p/340468652
-
-1. 下载文件后将Theme和Icon相关文件分别放入```/home/<username>/``` 下的 ```.themes/``` 和 ```.icons/``` 文件下即可
-2. 通过 ``` Alt+F2``` 后输入 ```r``` 可以刷新tweak的界面显示
-3. Orchis gtk主题地址：https://www.opendesktop.org/s/Gnome/p/1357889/
-4. Tela icon地址：https://www.opendesktop.org/s/Gnome/p/1357889/
 
 
-
-##### Dock相关优化
-
-参考：https://zhuanlan.zhihu.com/p/176977192
-
-1. 在命令行里安装 ```gnome-tweaks``` 和 ```chrome-gnome-shell```
-2. 在 https://extensions.gnome.org 上分别安装Chrome的gnome插件、user themes、dash to dock和netspeed
-3. 在dash to dock的配置界面 https://extensions.gnome.org/local/ 对dash进行配置
-
-
-update fE
