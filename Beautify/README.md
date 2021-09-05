@@ -32,7 +32,7 @@
 步骤：
 
 1. 在命令行里安装 ```gnome-tweaks``` 和 ```chrome-gnome-shell```
-2. 在 https://extensions.gnome.org 上分别安装Chrome的gnome插件、user themes、dash to dock和netspeed
+2. 在 https://extensions.gnome.org 上分别安装Chrome的gnome插件、user themes、dash to dock和netspeed（还有Unblank lock screen）
 3. 在dash to dock的配置界面 https://extensions.gnome.org/local/ 对dash进行配置
 
 
