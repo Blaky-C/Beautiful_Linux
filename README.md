@@ -68,4 +68,4 @@ Optimize and beautify Ubuntu.
 3. 在dash to dock的配置界面 https://extensions.gnome.org/local/ 对dash进行配置
 
 
-
+update fE
