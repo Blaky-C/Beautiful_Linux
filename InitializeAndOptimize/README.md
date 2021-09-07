@@ -58,5 +58,9 @@ win10 无法 ping 通 Ubuntu 的问题：https://blog.csdn.net/hyy_217/article/d
 
 ##### 创建系统镜像
 
+参考：https://www.cnblogs.com/sparkdev/p/10470144.html
+
+Ubuntu Desktop 版本默认自带了图形化的备份/还原工具 Déjà Dup。这里对全盘的文件进行了备份，并设为按周进行的自动备份。我在 Window 系统下为另一块机械硬盘分了一块区域（/dev/sda3），作为 Ubuntu 系统的备份目标。
+
 
 
